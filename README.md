@@ -1,2 +1,3 @@
-# -
-通过Python 复现相关论文
+# scRNA-seq - python
+## author ： honghui zhao and jiahui hong
+### From  to 
